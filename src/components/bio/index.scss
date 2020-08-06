@@ -15,26 +15,29 @@
   }
 
   .author-name-prefix {
+    font-family: 'Open Sans';
     font-size: 90%;
     margin-right: 4px;
   }
 
   .author-name-content {
+    font-family: 'Open Sans';
     display: inline-block;
-    font-size: 95%;
+    font-size: 80%;
     padding: 2px 6px;
-    font-weight: bolder;
+    font-weight: 600;
     border-radius: 8px;
     transform-origin: center;
   }
 
   .author-introduction {
     margin-top: 4px;
-    font-size: 80%;
+    font-size: 100%;
     line-height: 1.4;
   }
 
   .author-socials {
+    font-family: 'Open Sans';
     margin-top: 4px;
   }
 
